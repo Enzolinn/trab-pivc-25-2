@@ -1,0 +1,9 @@
+[submodule "LeafHealth-app"]
+	path = LeafHealth-app
+	url = https://github.com/Enzolinn/LeafHealth-app.git
+[submodule "LeafHealth-middleware"]
+	path = LeafHealth-middleware
+	url = https://github.com/Enzolinn/LeafHealth-middleware.git
+[submodule "LeafHealth-backend"]
+	path = LeafHealth-backend
+	url = https://github.com/Enzolinn/LeafHealth-backend.git
