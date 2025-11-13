@@ -1,5 +1,17 @@
-# trab-pivc-25-2
+# trab-pivc-25-2 - Professor Rafael Rieder - Universidade de Passo Fundo
+
 TRABALHO PRÁTICO DE DESENVOLVIMENTO DE SOLUÇÃO - 2025/2 -
 
-Buscamos implementar uma solução que permita ao usuário tirar uma foto de uma folha de uma planta, e trazer ao usuário a doença que está infectando a folha. 
-Aplicativo permite ao user tirar a foto, e manda a imagem para a api. A api recebe a imagem e passa para um modelo de machine learning fazer o "diagnóstico" baseado na imagem. E devolve ao user a doença ou praga detectada. E as coordenadas dos pontos infectados.
+## DRIVE COM VIDEO EXPLICATIVO E APK DO APP
+
+<https://drive.google.com/drive/folders/1o5hNcP1BFEACDkAwPmko_Q_rQrOIwF3n?usp=drive_link>
+
+## IMPORTANTE
+
+Apos clonar esse repositório rode o comando git submodule update --init para atualizar os submodulos do repositorio.
+
+    - O submodulo do app
+
+    - E o submodulo do backend
+
+---
