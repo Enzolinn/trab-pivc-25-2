@@ -3,3 +3,6 @@
 	path = leaf_health_app
 	url = https://github.com/Enzolinn/leaf_health_app.git
 
+[submodule "leaf_health_backend"]
+	path = leaf_health_backend
+	url = https://github.com/Enzolinn/leaf_health_backend.git
